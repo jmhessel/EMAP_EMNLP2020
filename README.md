@@ -3,7 +3,7 @@
 This repo contains (a very short amount of) code from: [Does my multimodal model learn cross-modal interactions? It's harder to tell than you might think!](https://arxiv.org/abs/2010.06572) The bibtex is:
 
 ```
-@inproceedings{hessel2020cats,
+@inproceedings{hessel2020emap,
 	title={Does my multimodal model learn cross-modal interactions? It's harder to tell than you might think!},
 	author={Hessel, Jack and Lee, Lillian},
 	booktitle={EMNLP},
